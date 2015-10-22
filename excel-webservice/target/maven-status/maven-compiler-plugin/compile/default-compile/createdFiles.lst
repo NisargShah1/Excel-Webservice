@@ -1,5 +1,0 @@
-org\ws\excel\service\impl\ExcelServiceImpl.class
-org\ws\excel\model\Product.class
-org\ws\excel\restws\registry\JerseyRestApplication.class
-org\ws\excel\service\ifc\ExcelService.class
-org\ws\excel\restws\ws\ExcelExportWs.class
