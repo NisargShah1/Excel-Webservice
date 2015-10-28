@@ -1,7 +1,5 @@
 /**
  * @author {Nisarg Shah}
- * 21-Jun-2015
- * com.infosys.barclays.bli.restws.registry JerseyRestApplication.java
  */
 package org.ws.excel.restws.registry;
 
